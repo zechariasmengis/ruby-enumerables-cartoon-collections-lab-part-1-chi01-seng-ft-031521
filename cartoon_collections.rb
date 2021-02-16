@@ -1,6 +1,6 @@
 def greet_characters(array)
   array.each do |names|
-  puts "Hello" + #{names}
+  puts "Hello #{names}!"
 end
 end
 
